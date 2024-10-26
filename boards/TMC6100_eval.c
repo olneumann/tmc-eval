@@ -17,7 +17,7 @@
 #define DEFAULT_ICID  0
 
 // use this define for TMC4671-TMC6100-BOB
-//#define COMPILE_FOR_TMC4671_TMC6100_BOB
+#define COMPILE_FOR_TMC4671_TMC6100_BOB
 
 static uint32_t right(uint8_t motor, int32_t velocity);
 static uint32_t left(uint8_t motor, int32_t velocity);
