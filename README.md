@@ -8,6 +8,10 @@ Trinamic Evaluation System ([home page](https://www.analog.com/en/resources/eval
 To clone this repository, simply use the following command in order to clone submodules recursively:  
 `git clone --recurse-submodules git@github.com:analogdevicesinc/TMC-EvalSystem.git`
 
+### Install Arm GNU Toolchain
+
+Follow the instructions on the [GNU Arm Embedded Toolchain](https://lindevs.com/install-arm-gnu-toolchain-on-ubuntu) page to install the toolchain.
+
 ## Changelog
 
 For detailed changelog, see commit history.
